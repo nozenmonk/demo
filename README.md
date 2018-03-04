@@ -1,3 +1,4 @@
 #Demo Project README
 
-Just a sample README file
+
+A sample README file
