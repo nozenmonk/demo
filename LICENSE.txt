@@ -1,1 +1,1 @@
-#LICENSE
+#LICENSE 0.0
